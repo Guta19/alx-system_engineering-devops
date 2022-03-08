@@ -1,1 +1,1 @@
-Now I am becoming a devops developer at alx
+learning shell redirections at alx
